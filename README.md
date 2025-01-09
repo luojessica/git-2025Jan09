@@ -4,3 +4,5 @@
     - make sure the directory you are cloning is not already a git repo
 
 - `git status`: displays information about the folder
+
+- `git add <file>`: starts the commitment process
