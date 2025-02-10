@@ -10,5 +10,5 @@
 
 - `git commit`: creates a commit (aka snapshot) with the changes in the staging area, with the message you supplied
 
-- `git push <where> <what>`: pushes changes from local machine to remote (where) using the branch (what)
-- `git pull <where> <what>`: brings changes from the remote to the local machine
+- `git push ... ...`: pushes changes from local machine to remote (origin) using the branch (main or a branch)
+- `git pull ... ...`: brings changes from the remote (origin) to the local machine (main or a branch)
