@@ -12,3 +12,6 @@
 
 - `git push ... ...`: pushes changes from local machine to remote (origin) using the branch (main or a branch)
 - `git pull ... ...`: brings changes from the remote (origin) to the local machine (main or a branch)
+
+- `branch`: is a different place where work can be done without pushing and pulling each time
+- `pull request`: a proposal to merge changes from one branch of a code repository into another
