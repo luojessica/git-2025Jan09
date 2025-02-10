@@ -6,9 +6,8 @@
 
 - `git status`: displays information about the current git repo
 
-- `git add <FILE>`: adds <FILE> to the staging area
-
-- `git commit`: creates a commit (aka snapshot) with the changes in the staging area, with the message you supplied
+- `git add <FILE>`: adds a file named <FILE> to the staging area
+- `git commit -m "..."`: creates a commit (aka snapshot) with the changes in the staging area, with the message supplied
 
 - `git push ... ...`: pushes changes from local machine to remote (origin) using the branch (main or a branch)
 - `git pull ... ...`: brings changes from the remote (origin) to the local machine (main or a branch)
